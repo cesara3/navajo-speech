@@ -1,0 +1,13 @@
+# Same versions as Cesar's working "vits" environment on Easley.
+# torch is installed separately by team_setup.sh (it needs the CUDA 12.8 download site).
+numpy==2.2.6
+scipy==1.15.3
+librosa==0.11.0
+soundfile==0.14.0
+matplotlib==3.10.9
+cython==3.3.0
+phonemizer==3.4.0
+unidecode==1.4.0
+tensorboard==2.21.0
+scikit-learn==1.7.2
+numba==0.68.0
